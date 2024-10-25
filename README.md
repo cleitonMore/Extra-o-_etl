@@ -18,7 +18,7 @@ Como Executar o Projeto
 1. Clonar o Repositório
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/cleitonMore/Extra-o-_etl/commit/0d049ded4aacc129cc73aac52d4dceb3915c6b12
 cd seu-repositorio
 2. Configurar o Ambiente
 Certifique-se de ter o Python 3.9 ou superior instalado. Em seguida, crie um ambiente virtual e instale as dependências.
